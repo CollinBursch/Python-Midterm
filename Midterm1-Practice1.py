@@ -1,4 +1,23 @@
 """
+Steps to creating a new virtual environment:
+
+Create a virtual environment: 
+py -3 -m venv .venv (.venv is the name of the virtual environment and can be changed
+
+Set yes when asked to use this as a workplace env
+
+Activate the virtual environment: 
+.\.venv\Scripts\activate
+
+Set-ExecutionPolicy -ExecutionPolicy AllSigned -Scope Process
+
+Create New file
+.gitignore
+
+In git ignore type .venv/ (save)
+
+Install library: 
+pip install matplotlib  
 
 
 """
