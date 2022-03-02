@@ -17,7 +17,7 @@ Create New file
 In git ignore type .venv/ (save)
 
 Install library: 
-pip install matplotlib  
+pip install matplotlib   
 
 
 """
